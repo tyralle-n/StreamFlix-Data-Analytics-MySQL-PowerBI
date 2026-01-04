@@ -80,4 +80,4 @@ The Power BI dashboard provides:
 
 ## 👤 Author
 **Tyralle Naidu**  
-BCom Information Technology & Management  
+BComm Information & Technology Management  
